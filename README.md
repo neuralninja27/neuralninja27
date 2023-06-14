@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on projects about Computer Vision, Machine Learning and Deep Learning
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=neuralninja27&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=neuralninja27&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
