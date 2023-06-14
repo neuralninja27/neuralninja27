@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on some cool stuff in Python
 - 🌱 I’m currently learning Python, Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on projects about Computer Vision, Machine Learning and Deep Learning
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
