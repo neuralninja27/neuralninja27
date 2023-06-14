@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on some cool stuff in Python
+
 🌱 I’m currently learning Python, Machine Learning and Deep Learning
+
 👯 I’m looking to collaborate on projects about Computer Vision, Machine Learning and Deep Learning
