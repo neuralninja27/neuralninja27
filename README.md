@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on cool stuff in Python
+- 🔭 I’m currently working on cool stuff with Python
 - 🌱 I’m currently learning Python, Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on Computer Vision, Machine Learning and Deep Learning projects
 <!--
