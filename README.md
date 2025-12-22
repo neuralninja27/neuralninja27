@@ -2,22 +2,12 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hey%20there&fontSize=90" /> -->
 <!--
 **neuralninja27/neuralninja27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning edge AI, C++ and optimization techniques
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 🔭 I’m currently working on cool stuff with Python
-- 🌱 I’m currently learning Python, Machine Learning and Deep Learning
-- 👯 I’m looking to collaborate on Computer Vision, Machine Learning and Deep Learning projects
-<!--
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=neuralninja27&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 -->
+
+- 🔭 I’m currently working on making edge devices go brrr
+- 🌱 I’m currently learning edge AI, C++, ROS and optimization techniques
+- 🔭 I’m currently working on cool stuff with Python and C++
+- 👯 I’m looking to collaborate on Computer Vision, Robot Perception projects
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=neuralninja27&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
